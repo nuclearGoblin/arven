@@ -1,0 +1,152 @@
+﻿Name,Ingredients,Seasonings,Powers
+Jambon-Buerre,Ham,Butter,Encounter Power: Ground Lv. 1; Raid Power: Ghost Lv. 1; Catching Power: Bug Lv. 1
+Bitter Jambon=Buerre,Ham,Butter; Bitter Herba Mystica,Title Power: Ground Lv. 2; Exp. Point Power: Ghost Lv. 2; Encounter Power: Bug Lv. 2
+Sweet Jambon-Buerre,Ham,Butter; Sweet Herba Mystica,Title Power: Ground Lv. 2; Egg Power Lv. 2; Encounter Power: Bug Lv. 2
+Salty Jambon-Buerre,Ham,Butter; Salty Herba Mystica,Title Power: Ground Lv. 2; Encounter Power: Ghost Lv. 2; Raid Power: Bug Lv. 2
+Sour Jambon-Buerre,Ham,Butter; Sour Herba Mystica,Title Power: Ground Lv. 2; Teensy Power: Ghost Lv. 2; Encounter Power: Bug Lv. 2
+Spicy Jambon-Buerre,Ham,Butter; Spicy Herba Mystica,Title Power: Ground Lv. 2; Humungo Power: Ghost Lv. 2; Encounter Power: Bug Lv. 2
+Legendary Bitter Sandwich,Lettuce; Bacon,Bitter Herba Mystica; Pepper,Title Power: Rock Lv. 2; Exp. Point Power: Ice Lv. 2; Encounter Power: Grass Lv. 2
+Legendary Salty Sandwich,Lettuce; Bacon,Salty Herba Mystica; Pepper,Title Power: Rock Lv. 2; Exp. Point Power: Ice Lv. 2; Encounter Power: Grass Lv. 2
+Legendary Sweet Sandwich,Lettuce; Bacon,Sweet Herba Mystica; Pepper,Title Power: Rock Lv. 2; Egg Power Lv. 2; Encounter Power: Grass Lv. 2
+Legendary Sour Sandwich,Lettuce; Bacon,Sour Herba Mystica; Pepper,Title Power: Rock Lv. 2; Teensy Power: Ice Lv. 2; Encounter Power: Grass Lv. 2
+Legendary Spicy Sandwich,Lettuce; Bacon,Spicy Herba Mystica; Pepper,Title Power: Rock Lv. 2; Humungo Power: Ice Lv. 2; Encounter Power: Grass Lv. 2
+Jam Sandwich,Strawberry,Jam,Catching Power: Fighting Lv. 1; Item Drop Power: Psychic Lv. 1; Egg Power Lv. 1
+Great Jam Sandwich,Strawberry,Jam; Yogurt,Catching Power: Fighting Lv. 2; Item Drop Power: Psychic Lv. 1; Raid Power: Ghost Lv. 1
+Ultra Jam Sandwich,Strawberry; Pineapple,Jam; Yogurt,Catching Power: Dark Lv. 2; Item Drop Power: Ground Lv. 2; Egg Power Lv. 1
+Master Jam Sandwich,Strawberry; Pineapple,Jam; Yogurt; Sweet Herba Mystica,Title Power: Dark Lv. 2; Catching Power: Ground Lv. 2; Item Drop Power: Fighting Lv. 2
+Peanut butter Sandwich,Banana,Peanut Butter,Egg Power Lv. 1; Item Drop Power: Electric Lv. 1; Raid Power: Bug Lv. 1
+Great Peanut Butter Sandwich,Banana,Peanut Butter; Butter,Egg Power: Lv. 2; Raid Power: Electric Lv. 1; Exp. Point Power: Normal Lv.1
+Ultra Peanut Butter Sandwich,Banana,Peanut Butter; Butter; Jam,Egg Power Lv. 2; Raid Power: Normal Lv. 2; Item Drop Power: Bug Lv. 1
+Master Peanut Butter Sandwich,Banana,Peanut Butter; Butter; Jam; Spicy Herba Mystica,Title Power: Electric Lv. 2; Raid Power: Normal Lv. 2; Item Drop Power: Bug Lv. 2
+Pickle Sandwich,Pickle,Olive Oil,Teensy Power: Fighting Lv. 1; Encounter Power: Fire Lv. 1; Catching Power: Ghost Lv. 1
+Great Pickle Sandwich,Pickle; Watercress,Olive Oil,Item Drop Power: Fighting Lv. 2; Encounter Power: Fire Lv. 1; Catching Power: Ghost Lv. 1
+Ultra Pickle Sandwich,Pickle; Watercress; Basil,Olive Oil,Item Drop Power: Fighting Lv. 2; Egg Power Lv. 2; Catching Power: Fire Lv. 1
+Master Pickle Sandwich,Pickle; Watercress; Basil,Olive Oil; Sour Herba Mystica,Title Power: Fighting Lv. 2; Teensy Power: Grass Lv. 2; Egg Power Lv. 2
+Marmalade Sandwich,Cheese,Marmalade,Item Drop Power: Fighting Lv. 1; Catching Power: Rock Lv. 1; Egg Power Lv. 1
+Great Marmalade Sandwich,Cheese,Marmalade; Butter,Egg Power Lv. 2; Raid Power: Rock Lv. 1; Item Drop Power: Poison Lv. 1
+Ultra Marmalade Sandwich,Cheese,Marmalade; Butter; Cream Cheese,Egg Power Lv. 2; Item Drop Power: Poison Lv. 2; Raid Power: Fighting Lv. 1
+Master Marmalade Sandwich,Cheese,Marmalade; Butter; Cream Cheese; Salty Herba Mystica,Title Power: Bug Lv. 2; Enocunter Power: Poison Lv. 2; Item Drop Power: Fighting Lv. 2
+Herbed-Sausage Sandwich,Herbed Sausage,Ketchup,Encounter Power: Fighting Lv. 1; Exp. Point Power: Ghost Lv. 1; Raid Power: Ground Lv. 1
+Great Herbed-Sausage Sandwich,Herbed Sausage,Ketchup; Mustard,Encounter Power: Ground Lv. 2; Exp. Point Power: Ghost Lv. 1; Raid Power: Fighting Lv. 1
+Ultra Herbed-Sausage Sandwich,Herbed Sausage; Lettuce,Ketchup; Mustard,Exp. Point Power: Ground Lv. 2; Raid Power: Ghost Lv. 2; Encounter Power: Fighting Lv. 1
+Master Herbed-Sausage Sandwich,Herbed Sausage; Lettuce,Ketchup; Mustard; Bitter Herba Mystica,Title Power: Ground Lv. 2; Exp. Point Power: fighting Lv. 2; Raid Power: Normal Lv. 2
+Curry-and-Rice-Style Sandwich,Rice,Curry Powder; Mayonnaise,Humungo Power: Normal Lv. 1; Encounter Power: Fire Lv. 1; Raid Power: Fighting Lv. 1
+Great Curry-and-Rice-Style Sandwich,Rice; Jalapeno,Curry Powder; Mayonnaise,Humungo Power: Gras Lv. 2; Encounter Power: Fighting Lv. 1; Item Drop Power: Normal Lv. 1
+Ultra Curry-and-Rice-Style Sandwich,Rice; Jalapeno; Tomato,Curry Powder; Mayonnaise,Humungo Power: Grass Lv. 2; Encounter Power: Normal Lv. 2; Item Drop Power: Fiary Lv. 1
+Master Curry-and-Rice-Style Sandwich,Rice; Jalapeno; Tomato,Curry Powder; Mayonnaise; Spicy Herba Mystica,Title Power: Grass Lv. 2; Humungo Power: Fairy Lv. 2; Encounter Power: Normal Lv. 2
+Dessert Sandwich,Apple; Apple,Yogurt; Whipped Cream,Catching Power: Flying Lv. 1; Item Drop Power: Ice Lv. 1; Egg Power: Lv. 1
+Great Dessert Sandwich,Apple; Apple; Kiwi,Yogurt; Whipped Cream,Catching Power: Flying Lv. 2; Item Drop Power: Ice Lv. 1; Egg Power Lv. 1
+Ultra Dessert Sandwich,Apple; Apple; Kiwi; Strawberry,Yogurt; Whipped Cream,Item Drop Power: Flying Lv. 2; Catching Power: Ice Lv. 2; Egg Power Lv. 1
+Master Dessert Sandwich,Apple; Apple; Kiwi; Strawberry,Yogurt; Whipped Cream; Sweet Herba Mystica,Title Power: Flying Lv. 2; Item Drop Power: Poison Lv. 2; Catching Power: Fighting Lv. 2
+Tropical Sandwich,Klawf Stick; Avocado,Marmalade,Egg Power Lv. 1; Encounter Power: Fighting Lv. 1; Catching Power: Dragon Lv. 1
+Great Tropical Sandwich,Klawf Stick; Avocado; Pineapple,Marmalade,Catching Power: Ground Lv. 2; Encounter Power: Dark Lv. 1; Item Drop Power: Water Lv. 1
+Ultra Tropical Sandwich,Klawf Stick; Avocado; Pineapple; Jalapeno,Marmalade,Catching Power: Rock Lv. 2; Item Drop Power: Water Lv. 2; Encounter Power: Ground Lv. 1
+Master Tropical Sandwich,Klawf Stick; Avocado; Pineapple; Jalapeno,Marmalade; Sour Herba Mystica,Title Power: Rock Lv. 2; Catching Power: Water Lv. 2; Item Drop Power: Ground Lv. 2
+Avocado Sandwich,Avocado; Smoked Fillet,Salt,Exp. Point Power: Dragon Lv. 1; Encounter Power: Electric Lv. 1; Catching Power: Dark Lv. 1
+Great Avocado Sandwich,Avocado; Smoked Fillet; Tomato,Salt,Encounter Power: Dragon Lv. 2; Catching Power: Fiary Lv. 1; Exp. Point Power: Dark Lv. 1
+Ultra Avocado Sandwich,Avocado; Smoked Fillet; Tomato; Lettuce,Salt,Exp. Point Power: Grass Lv. 2; Encounter Power: Dark Lv. 2; Catching Power: Dragon Lv. 1
+Master Avocado Sandwich,Avocado; Smoked Fillet; Tomato; Lettuce,Salt; Salty Herba Mystica,Title Power: Grass Lv. 2; Exp. Point Power: Dark Lv. 2; Encounter Power: Dragon Lv. 2
+Noodle Sandwich,Noodles,Olive Oil; Ketchup,Enocunter Power: Poison Lv. 1; Raid Power: Rock Lv. 1; Humungo Power: Ground Lv. 1
+Great Noodle Sandwich,Noodles; Lettuce,Olive Oil; Ketchup,Encounter Power: Poison Lv. 2; Humungo Power: Rock Lv. 1; Raid Power: Ground Lv. 1
+Ultra Noodle Sandwich,Noodles; Lettuce; Chorizo,Olive Oil; Ketchup,Encounter Power: Poison Lv. 2; Exp. Point Power: Fire Lv. 2; Humungo Power: Electric Lv. 1
+Master Noodle Sandwich,Noodles; Lettuce; Chorizo,Olive Oil; Ketchup; Bitter Herba Mystica,Title Power: Poison Lv. 2; Exp. Point Power: Electric Lv. 2; Encounter Power: Normal Lv. 2
+Potato Salad Sandwich,Potato Salad; Cucumber; Red Bell Pepper,Mayonnaise,Teensy Power: Bug Lv. 1; Encounter Power: Steel Lv. 1; Catching Power: Ghost Lv. 1
+Great Potato Salad Sandwich,Potato Salad; Cucumber; Red Bell Pepper; Avocado,Mayonnaise,Catching Power: Dragon Lv. 2; Encounter Power: Ghost Lv. 1; Humungo Power: Bug Lv. 1
+Ultra Potato Salad Sandwich,Potato Salad; Cucumber; Red Bell Pepper; Avocado; Red Onion,Mayonnaise,Catching Power: Ghost Lv. 2; Encounter Power: Bug Lv. 2; Humungo Power: Dragon Lv. 1
+Master Potato Salad Sandwich,Potato Salad; Cucumber; Red Bell Pepper; Avocado; Red Onion,Mayonnaise; Sweet Herba Mystica,Title Power: Ghost Lv. 2; Catching Power: Dragon Lv. 2; Encounter Power: Normal Lv. 2
+Zesty Sandwich,Jalapeno; Onion; Herbed Sausage,Chili Sauce,Humungo Power: Psychic Lv. 1; Exp. Point Power: Fighting Lv. 1; Encounter Power: Water Lv. 1
+Great Zesty Sandwich,Jalapeno; Onion; Herbed Sausage; Sliced Green Pepper,Chili Sauce,Humungo Power: Psychic Lv. 2; Encounter Power: fighting Lv. 1; Exp. Point Power: water Lv. 1
+Ultra Zesty Sandwich,Jalapeno; Onion; Herbed Sausage; Sliced Green Pepper; Watercress,Chili Sauce,Humungo Power: Psychic Lv. 2; Encounter Power: Ground Lv. 2; Exp. Point Power: Fighting Lv. 1
+Master Zesty Sandwich,Jalapeno; Onion; Herbed Sausage; Sliced Green Pepper; Watercress,Chili Sauce; Sour Herba Mystica,Title Power: Psychic Lv. 2; Teensy Power: Fighting Lv. 2; Encounter Power: Normal Lv. 2
+Egg Sandwich,Egg; Cucumber,Salt; Mayonnaise,Encounter Power: Flying Lv. 1; Exp. Point Power: Steel Lv. 1; Raid Power: Rock Lv. 1
+Great Egg Sandwich,Egg; Cucumber; Red Onion,Salt; Mayonnaise,Encounter Power: Flying Lv. 2; Exp. Point Power: Steel Lv. 1; Raid Power: Rock Lv. 1
+Ultra Egg Sandwich,Egg; Cucumber; Red Onion; Cheese,Salt; Mayonnaise,Encounter Power: Flying Lv. 2; Exp. Point Power: Steel Lv. 2; Raid Power: Rock Lv. 1
+Master Egg Sandwich,Egg; Cucumber; Red Onion; Cheese,Salt; Mayonnaise; Salty Herba Mystica,Title Power: Flying Lv. 2; Encounter Power: Rock Lv. 2; Exp. Point Power: Normal Lv. 2
+Classic Bocadillo,Prosciutto; Cheese; Potato Tortilla,Olive Oil,Encounter Power: Ghost Lv. 1; Catching Power: Grass Lv. 1; Item Drop Power: Fire Lv. 1
+Great Classic Bocadillo,Prosciutto; Cheese; Potato Tortilla,Olive Oil; Curry Powder,Humungo Power: Ghost Lv. 2; Catching Power: Grass Lv. 1; Encounter Power: Fire Lv. 1
+Ultra Classic Bocadillo,Prosciutto; Cheese; Potato Tortilla; Avocado,Olive Oil; Curry Powder,Humungo Power: Dragon Lv. 2; Catching Power: Fire Lv. 2; Enocunter Power: Ghost Lv. 1
+Master Classic Bocadillo,Prosciutto; Cheese; Potato Tortilla; Avocado,Olive Oil; Curry Powder; Bitter herba Mystica,Title Power: Dragon Lv. 2; Item Drop Power: Ghost Lv. 2; Catching Power: Normal Lv. 2
+Refreshing Sandwich,Cherry Tomatoes; Avocado,Marmalade; Salt,Catching Power: Bug Lv. 1; Encounter Power: Fighting Lv. 1; Raid Power: Dragon Lv 1
+Great Refreshing Sandwich,Cherry Tomatoes; Avocado; Kiwi,Marmalade; Salt,Catching Power: Dragon Lv. 2; Encounter Power: Fire Lv. 1; Item Drop Power: Poison Lv. 1
+Ultra Refreshing Sandwich,Cherry Tomatoes; Avocado; Kiwi; Pickle,Marmalade; Salt,Catching Power: Dragon Lv. 2; Encounter Power: Fighting Lv. 2; Item Drop Power: Poison Lv. 1
+Master Refreshing Sandwich,Cherry Tomatoes; Avocado; Kiwi; Pickle,Marmalade; Salt; Spicy Herba Mystica,Title Power: Dragon Lv. 2; Humungo Power: Poison Lv. 2; Encounter Power: Normal Lv. 2
+BLT Sandwich,Bacon; Lettuce; Tomato,Mayonnaise; Mustard,Teensy Power: Rock Lv. 1; Encounter power: Fairy Lv. 1; Catching Power: Grass Lv. 1
+Great BLT Sandwich,Bacon; Lettuce; Tomato; Basil,Mayonnaise; Mustard,Teensy Power: Grass Lv. 2; Encounter Power: Rock Lv. 1; Raid Power: Fairy Lv. 1
+Ultra BLT Sandwich,Bacon; Lettuce; Tomato; Basil; Cheese,Mayonnaise; Mustard,Teensy Power: Grass Lv. 2; Encounter Power: Rock Lv. 2; Catching Power: Fairy Lv. 1
+Master BLT Sandwich,Bacon; Lettuce; Tomato; Basil; Cheese,Mayonnaise; Mustard; Sweet Herba Mystica,Title Power: Grass Lv. 2; Catching Power: Fiary Lv. 2; Encounter Power: Normal Lv. 2
+Fried Fillet Sandwich,Fried Fillet; Potato Salad,Mayonnaise; Ketchup,Teensy Power: Bug Lv. 1; Raid Power: Dark Lv. 1; Exp. Point Power: Steel Lv. 1
+Great Fried Fillet Sandwich,Fried Fillet; Potato Salad; Lettuce,Mayonnaise; Ketchup,Teensy Power: Bug Lv. 2; Raid Power: Dark Lv. 1; Catching Power: Steel Lv. 1
+Ultra Fried Fillet Sandwich,Fried Fillet; Potato Salad; Lettuce,Mayonnaise; Ketchup; Horseradish,Teensy Power: Bug Lv. 2; Raid Power: Dark Lv. 2; Encounter Power: Steel Lv. 1
+Master Fried Fillet Sandwich,Fried Fillet; Potato Salad; Lettuce,Mayonnaise; Ketchup; Horseradish; Spicy Herba Mystica,Title Power: bug Lv. 2; Humungo Power: Steel Lv. 2; Raid Power: Normal Lv. 2
+Ham Sandwich,Pickle; Ham,Mayonnaise; Mustard,Teensy Power: Fighting Lv. 1; Encounter Power: Normal Lv. 1; Raid Power: Ground Lv. 1
+Great Ham Sandwich,Pickle; Ham; Prosciutto,Mayonnaise; Mustard,Encounter Power: Fighting Lv. 2; Catching Power: Flying Lv. 1; Raid Power: Ground Lv. 1
+Ultra Ham Sandwich,Pickle; Ham; Prosciutto; Jalapeno,Mayonnaise; Mustard,Teensy Power: Rock Lv. 2; Encounter Power: Fairy Lv. 2; Catching Power: Grass Lv. 1
+Master Ham Sandwich,Pickle; Ham; Prosciutto; Jalapeno,Mayonnaise; Mustard; Salty Herba Mystica,Title Power: Rock Lv. 2; Encounter Power: Fairy Lv. 2; Catching Power: Grass Lv. 2
+Cheese Sandwich,Cheese,Cream Cheese; Pepper; Salt,Encounter Power: Bug Lv. 1; Raid Power: Water Lv. 1; Exp. Point Power: Steel Lv. 1
+Great Cheese Sandwich,Cheese; Avocado,Cream Cheese; Pepper; Salt,Encounter Power: Dragon Lv. 2; Raid Power: Steel Lv. 1; Exp. Point Power: bug Lv. 1
+Ultra Cheese Sandwich,Cheese; Avocado; Basil,Cream Cheese; Pepper; Salt,Exp. Point Power: Dragon Lv. 2; Raid Power: Electric Lv. 2; Catching Power: Water Lv. 1
+Master Cheese Sandwich,Cheese; Avocado; Basil,Cream Cheese; Pepper; Salt; Salty Herba Mystica,Title Power: Dragon Lv. 2; Exp. Point Power: Electric Lv. 2; Raid Power: Water Lv. 2
+Hamburger Patty Sandwich,Hamburger; Onion,Vinegar; Pepper,Humungo Power: Psychic Lv. 1; Encounter Power: Dragon Lv. 1; Catching Power: Steel Lv. 1
+Great Hamburger Patty Sandwich,Hamburger; Onion,Vinegar; Pepper; Horseradish,Humungo Power: Psychic Lv. 2; Encounter Power: Dragon Lv. 1; Catching Power: Steel Lv. 1
+Ultra Hamburger Patty Sandwich,Hamburger; Onion; Watercress,Vinegar; Pepper; Horseradish,Humungo Power: Psychic Lv. 2; Encounter Power: Dragon Lv. 2; Catching Power: Steel Lv. 1
+Master Hamburger Patty Sandwich,Hamburger; Onion; Watercress,Vinegar; Pepper; Horseradish; Sweet Herba Mystica,Title Power: Psychic Lv. 2; Raid Power: Dragon Lv. 2; Encounter Power: Steel Lv. 2
+Smoky Sandwich,Smoked Fillet; Watercress,Vinegar; Pepper; Salt,Exp. Point Power: Dark Lv. 1; Raid Power: Dragon Lv. 1; Encounter Power: Psychic Lv. 1
+Great Smoky Sandwich,Smoked Fillet; Watercress; Red Onion,Vinegar; Pepper; Salt,Exp. Point Power: Ghost Lv. 2; Raid Power: Psychic Lv. 1; Encounter Power: Dark Lv. 1
+Ultra Smoky Sandwich,Smoked Fillet; Watercress; Red Onion; Basil,Vinegar; Pepper; Salt,Exp. Point Power: Dark Lv. 2; Raid Power: Psychic Lv. 2; Encounter Power: Ghost Lv. 1
+Master Smoky Sandwich,Smoked Fillet; Watercress; Red Onion; Basil,Vinegar; Pepper; Salt; Salty Herba Mystica,Title Power: Dark Lv. 2; Exp. Point Power: Psychic Lv. 2; Raid Power: Ghost Lv. 2
+Fruit Sandwich,Banana; Apple; Pineapple; Kiwi,Whipped Cream,Item Drop Power: Normal Lv. 1; Catching Power; Ground Lv. 1; Egg Power Lv. 1
+Great Fruit Sandwich,Banana; Apple; Pineapple; Kiwi,Whipped Cream; Marmalade,Item Drop Power: Normal Lv. 2; Catching Power: Poison Lv. 1; Egg Power Lv. 1
+Ultra Fruit Sandwich,Banana; Apple; Pineapple; Kiwi,Whipped Cream; Marmalade; Yogurt,Item Drop Power: Normal Lv. 2; Catching Power: Poison Lv. 2; Egg Power Lv. 1
+Master Fruit Sandwich,Banana; Apple; Pineapple; Kiwi,Whipped Cream; Marmalade; Yogurt; Sweet Herba Mystica,Title Power: Normal Lv. 2; Item Drop Power: Poison Lv. 2; Catching Power: Flying Lv. 2
+Variety Sandwich,Prosciutto; Cherry Tomatoes; Smoked Fillet,Salt; Vinegar,Teensy Power: Fighting Lv. 1; Encounter Power: Dark Lv. 1; Catching Power: Bug Lv. 1
+Great Variety Sandwich,Prosciutto; Cherry Tomatoes; Smoked Fillet; Potato Salad,Salt; Vinegar,Teensy Power: Bug Lv. 2; Encounter Power: Dragon Lv. 1; Catching Power: Dark Lv. 1
+Ultra Variety Sandwich,Prosciutto; Cherry Tomatoes; Smoked Fillet; Potato Salad; Hamburger,Salt; Vinegar,Encounter Power: Bug Lv. 2; Catching Power: Dark Lv. 2; Humungo Power: Steel Lv. 1
+Master Variety Sandwich,Prosciutto; Cherry Tomatoes; Smoked Fillet; Potato Salad; Hamburger,Salt; Vinegar; Bitter Herba Mystica,Title Power: Bug Lv. 2; Exp. Point Power: Steel Lv. 2; Encounter Power: Normal Lv. 2
+Klawf Claw Sandwich,Klawf Stick; Tomato; Lettuce,Salt; Olive Oil,Encounter Power: Grass Lv. 1; Catching Power: Fairy Lv. 1; Item Drop Power: Ice Lv. 1
+Great Klawf Claw Sandwich,Klawf Stick; Tomato; Lettuce,Salt; Olive Oil; Wasabi,Encounter Power: Grass Lv. 2; Catching Power: Fairy Lv. 1; Item Drop Power: Ice Lv. 1
+Ultra Clawf Claw Sandwich,Klawf Stick; Tomato; Lettuce; Yellow Bell Pepper,Salt; Olive Oil; Wasabi,Encounter Power: Grass Lv. 2; Catching Power: Ice Lv. 2; Item Drop Power: Electric Lv. 1
+Master Clawf Claw Sandwich,Klawf Stick; Tomato; Lettuce; Yellow Bell Pepper,Salt; Olive Oil; Wasabi; Spicy Herba Mystica,Title Power: Grass Lv. 2; Humungo Power: Ice Lv. 2; Encounter Power: Electric Lv. 2
+Sweet Sandwich,Banana; Apple; Cheese,Whipped Cream; Butter,Egg Power Lv. 1; Item Drop Power: Bug Lv. 1; Raid Power: Flying Lv. 1
+Great Sweet Sandwich,Banana; Apple; Cheese,Whipped Cream; Butter; Salt,Egg Power Lv. 2; Item Drop Power: Bug Lv. 1; Raid Power: Flying Lv. 1
+Ultra Sweet Sandwich,Banana; Apple; Cheese; Basil,Whipped Cream; Butter; Salt,Egg Power Lv. 2; Item Drop Power: Flying Lv. 2; Raid Power: Normal Lv. 1
+Master Sweet Sandwich,Banana; Apple; Cheese; Basil,Whipped Cream; Butter; Salt; Sour Herba Mystica,Title Power: Electric Lv. 2; Catching Power: Normal Lv. 2; Item Drop Power: fighting Lv. 2
+Vegetable Sandwich,Sliced Green Pepper; Cherry Tomatoes; Cucumber,Salt; Olive Oil; Vinegar,Teensy Power: Poison Lv. 1; Encounter Power: Water Lv. 1; Catching Power: Bug Lv. 1
+Great Vegetable Sandwich,Sliced Green Pepper; Cherry Tomatoes; Cucumber; Red Onion,Salt; Olive Oil; Vinegar,Encounter Power: Ghost Lv. 2; Teensy Power: Bug Lv. 1; Catching Power: Poison Lv. 1
+Ultra Vegetable Sandwich,Sliced Green Pepper; Cherry Tomatoes; Cucumber; Red Onion; Watercress,Salt; Olive Oil; Vinegar,Encounter Power: Ghost Lv. 2; Teensy Power: Bug Lv. 2; Catching Power: Poison Lv. 1
+Master Vegetable Sandwich,Sliced Green Pepper; Cherry Tomatoes; Cucumber; Red Onion; Watercress,Salt; Olive Oil; Vinegar; Salty Herba Mystica,Title Power: Ghost Lv. 2; Encounter Power: Bug Lv. 2; Catching Power: Poison Lv. 2
+Hefty Sandwich,Potato Tortilla; Fried Fillet; Prosciutto; Potato Salad,Salt; Peanut Butter,Encounter Power: Steel Lv. 1; Raid Power: Ghost Lv. 1; Catching Power: Bug Lv. 1
+Great Hefty Sandwich,Potato Tortilla; Fried Fillet; Prosciutto; Potato Salad; Herbed Sausage,Salt; Peanut Butter,Encounter Power: Ghost Lv. 2; Raid Power: Psychic Lv. 1; Catching Power: Dark Lv. 1
+Ultra Hefty Sandwich,Potato Tortilla; Fried Fillet; Prosciutto; Potato Salad; Herbed Sausage; Hamburger,Salt; Peanut Butter,Encounter Power: Ghost Lv. 2; Catching Power: Steel Lv. 2; Raid Power: Dark Lv. 1
+Master Hefty Sandwich,Potato Tortilla; Fried Fillet; Prosciutto; Potato Salad; Herbed Sausage; Hamburger,Salt; Peanut Butter; Sour Herba Mystica,Title Power: Ghost Lv. 2; Teensy Power: Dark Lv. 2; Catching Power: Normal Lv. 2
+Five-Alarm Sandwich,Chorizo; Onion; Sliced Green Pepper,Mustard; Chili Sauce; Pepper,Humungo Power: Poison Lv. 1; Exp. Point Power: Normal Lv. 1; Raid Power: Dragon Lv. 1
+Great Five-Alarm Sandwich,Chorizo; Onion; Sliced Green Pepper; Basil,Mustard; Chili Sauce; Pepper,Humungo Power: Poison Lv. 2; Raid Power: Fire Lv. 1; Exp. Point Power: Dragon Lv. 1
+Ultra Five-Alarm Sandwich,Chorizo; Onion; Sliced Green Pepper; Basil; Jalapeno,Mustard; Chili Sauce; Pepper,Humungo Power: Poison Lv. 2; Raid Power: Fire Lv. 2; Exp. Point Power: Dragon Lv. 1
+Master Five-Alarm Sandwich,Chorizo; Onion; Sliced Green Pepper; Basil; Jalapeno,Mustard; Chili Sauce; Pepper; Spicy Herba Mystica,Title Power: Poison Lv. 2; Humungo Power: Dragon Lv. 2; Raid Power: Normal Lv. 2
+Nouveau Veggie Sandwich,Watercress; Yellow Bell Pepper; Onion; Tomato,Olive Oil; Wasabi,Item Drop Power: Electric Lv. 1; Encounter Power: Fairy Lv. 1; Catching Power: Psychic Lv. 1
+Great Nouveau Veggie Sandwich,Watercress; Yellow Bell Pepper; Onion; Tomato; Cucumber,Olive Oil; Wasabi,Item Drop Power: Electric Lv. 2; Encounter Power: Fairy Lv. 1; Catching Power: Psychic Lv. 1
+Ultra Nouveau Veggie Sandwich,Watercress; Yellow Bell Pepper; Onion; Tomato; Cucumber,Olive Oil; Wasabi; Mayonnaise,Teensy Power: Electric Lv. 2; Encounter Power: Fairy Lv. 2; Catching Power: Psychic Lv. 1
+Master Nouveau Veggie Sandwich,Watercress; Yellow Bell Pepper; Onion; Tomato; Cucumber,Olive Oil; Wasabi; Mayonnaise; Sweet Herba Mystica,Title Power: Electric Lv. 2; Catching Power: Fairy Lv. 2; Encounter Power: Psychic Lv. 2
+Spicy-Sweet Sandwich,Hamburger; Tomato; Kiwi; Pineapple,Butter; Horseradish,Catching Power: Poison Lv. 1; Encounter Power: Fire Lv. 1; Item Drop Power: Ground Lv. 1
+Great Spicy-Sweet Sandwich,Hamburger; Tomato; Kiwi; Pineapple; Avocado,Butter; Horseradish,Catching Power: Dragon Lv. 2; Encounter Power: Ground Lv. 1; Item Drop Power: Poison Lv. 1
+Ultra Spicy-Sweet Sandwich,Hamburger; Tomato; Kiwi; Pineapple; Avocado; Cheese,Butter; Horseradish,Catching Power: Dragon Lv. 2; Encounter Power: Ground Lv. 2; Item Drop Power: Poison Lv. 1
+Master Spicy-Sweet Sandwich,Hamburger; Tomato; Kiwi; Pineapple; Avocado; Cheese,Butter; Horseradish; Bitter herba Mystica,Title Power: Dragon Lv. 2; Item Drop Power: Poison Lv. 2; Encounter Power: Normal Lv. 2
+Decadent Sandwich,Smoked Fillet; Klawf Stick; Watercress; Basil,Vinegar; Olive Oil; Salt,Exp. Point Power: Ice Lv. 1; Raid Power: Psychic Lv. 1; Encounter Power: Dark Lv. 1
+Great Decadent Sandwich,Smoked Fillet; Klawf Stick; Watercress; Basil; Tofu,Vinegar; Olive Oil; Salt,Exp. Point Power: Ice Lv. 2; Encounter Power: Normal Lv. 1; Catching Power: Dark Lv. 1
+Ultra Decadent Sandwich,Smoked Fillet; Klawf Stick; Watercress; Basil; Tofu; Red Onion,Vinegar; Olive Oil; Salt,Exp. Point Power: Ghost Lv. 2; Encounter Power: Dark Lv. 2; Catching Power: Ice Lv. 1
+Master Decadent Sandwich,Smoked Fillet; Klawf Stick; Watercress; Basil; Tofu; Red Onion,Vinegar; Olive Oil; Salt; Spicy Herba Mystica,Title Power: Ghost Lv. 2; Humungo Power: Dark Lv. 2; Encounter Power: Ice Lv. 2
+Tofu Sandwich,Tofu; Tofu; Rice; Lettuce; Avocado,Wasabi; Salt,Encounter Power: Normal Lv. 1; Egg Power Lv. 1; Catching Power: Grass Lv. 1
+Great Tofu Sandwich,Tofu; Tofu; Rice; Lettuce; Avocado,Wasabi; Salt; Horseradish,Encounter Power: Normal Lv. 2; Raid Power: Fighting Lv. 1; Catching Power: Grass Lv. 1
+Ultra Tofu Sandwich,Tofu; Tofu; Rice; Lettuce; Avocado; Watercress,Wasabi; Salt; Horseradish,Raid Power: Normal Lv. 2; Encounter Power: Fighting Lv. 2; Catching Power: Grass Lv. 1
+Master Tofu Sandwich,Tofu; Tofu; Rice; Lettuce; Avocado; Watercress,Wasabi; Salt; Horseradish; Salty Herba Mystica,Title Power: Normal Lv. 2; Encounter Power: Grass Lv. 2; Catching Power: Fighting Lv. 2
+Curry-and-Noodle Sandwich,Noodles; Red Bell Pepper; Bacon; Yellow Bell Pepper,Olive Oil; Salt; Curry Powder,Exp. Point Power: Electric Lv. 1; Encounter Power: Psychic Lv. 1; Catching Power: Rock Lv. 1
+Great Curry-and-Noodle Sandwich,Noodles; Red Bell Pepper; Bacon; Yellow Bell Pepper; Jalapeno,Olive Oil; Salt; Curry Powder,Item Drop Power: Rock Lv. 2; Encounter Power: Psychic Lv. 1; Catching Power: Electric Lv. 1
+Ultra Curry-and-Noodle Sandwich,Noodles; Red Bell Pepper; Bacon; Yellow Bell Pepper; Jalapeno; Egg,Olive Oil; Salt; Curry Powder,Exp. Point Power: Rock Lv. 2; Encounter Power: Grass Lv. 2; Catching Power: Ice Lv. 1
+Master Curry-and-Noodle Sandwich,Noodles; Red Bell Pepper; Bacon; Yellow Bell Pepper; Jalapeno; Egg,Olive Oil; Salt; Curry Powder; Sweet Herba Mystica,Title Power: Rock Lv. 2; Egg Power Lv. 2; Encounter Power: Normal Lv. 2
+Tower Sandwich,Hamburger; Noodles; Potato Salad; Rice; Klawf Stick,Olive Oil; Salt; Curry Powder,Exp. Point Power: Steel Lv. 1; Encounter Power: Fire Lv. 1; Humungo Power: Ghost Lv. 1
+Great Tower Sandwich,Hamburger; Noodles; Potato Salad; Rice; Klawf Stick; Tofu,Olive Oil; Salt; Curry Powder,Exp. Point Power: Steel Lv. 2; Encounter Power: Ghost Lv. 1; Humungo Power: Ice Lv. 1
+Ultra Tower Sandwich,Hamburger; Noodles; Potato Salad; Rice; Klawf Stick; Tofu,Olive Oil; Salt; Curry Powder,Encounter Power: Steel Lv. 2; Humungo Power: Ice Lv. 2; Catching Power: Normal Lv. 2
+Master Tower Sandwich,Hamburger; Noodles; Potato Salad; Rice; Klawf Stick; Tofu,Olive Oil; Salt; Curry Powder; Bitter Herba Mystica,Title Power: Steel Lv. 2; Encounter Power: Normal Lv. 2; Exp. Point Power: Fighting Lv. 2
+Sushi Sandwich,Rice; Smoked Fillet; Smoked Fillet; Klawf Stick,Salt; Vinegar; Wasabi,Encounter Power: Dark Lv. 1; Catching Power: Fighting Lv. 1; Humungo Power: Normal Lv. 1
+Great Sushi Sandwich,Rice; Smoked Fillet; Smoked Fillet; Klawf Stick; Watercress,Salt; Vinegar; Wasabi,Exp. Point Power: Dark Lv. 2; Encounter Power: Fighting Lv. 1; Catching Power: Normal Lv. 1
+Ultra Sushi Sandwich,Rice; Smoked Fillet; Smoked Fillet; Klawf Stick; Watercress; Klawf Stick,Salt; Vinegar; Wasabi,Encounter Power: Ice Lv. 2; Catching Power: Normal Lv. 2; Humungo Power: Dark Lv. 1
+Master Sushi Sandwich,Rice; Smoked Fillet; Smoked Fillet; Klawf Stick; Watercress; Klawf Stick,Salt; Vinegar; Wasabi; Sour Herba Mystica,Title Power: Ice Lv. 2; Teensy Power: Dark Lv. 2; Encounter Power: Normal Lv. 2

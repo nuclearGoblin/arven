@@ -87,7 +87,7 @@ def calculate():
         powers['raid'] += 100
 
     #Check if sparkling power is permitted
-    if sum([("Herba Mystica" in x) for x in ingredients]) < 2:
+    if sum([("Herba Mystica" in x) for x in seasonings]) < 2:
         powers['sparkling'] = 0; #reset to 0 to force it not to appear.
 
     #Get powers list
@@ -95,10 +95,29 @@ def calculate():
     types.sort()
 
     #Check if recipe exists as exception
-    if [ingredients, seasonings] in recipes:
-        print(recipes[recipes == [ingredients,seasonings]][powers])
+    if [sorted(ingredients), sorted(seasonings)] in recipes:
+        recipe = recipes[recipes == [ingredients,seasonings]]
+        print("Recipe:",recipe["Name"])
+        print(recipes[recipe][powers])
     else: #Print powers list
+        typeoffset = 0
         for i in [1,2,3]:
-            print(powers[-i],types[-i])
+            if powers[-i] >= level3:
+                level = 3
+            elif powers[-i] >= level2:
+                level = 2
+            elif powers[-i] >= 0:
+                level = 1
+            else:
+                break
+            if (powers[-i] == 'sparkling') or (powers[-i] == 'egg'):
+                print(powers[-i],"power Lv.",level)
+                typeoffset +=1 
+                while types[-i+typeoffset] <= 0:
+                    typeoffset += 1
+                    if types[-1] == 0:
+                        raise ValueError("No type had a value higher than any other type. Please submit a bug report at https://github.com/nuclearGoblin/arven/issues.")
+            else:
+                print(powers[-i]+":",types[-i+typeoffset],"Lv.",level)
 
 button = Button(playerdropdown, text = "Calculate", command = calculate).pack()
