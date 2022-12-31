@@ -9,7 +9,7 @@ level2 = 100; level3 = 2000
 #Variable Setup
 ingredients = []; seasonings = []
 num_players = 1
-powers = {'egg': 0, 'catching': 0, 'exp': 0, 'item': 0, 'raid': 0, 'title': 0, 'sparkling': 0, 'humongo': 0, 'teensy': 0, 'encounter': 0}
+powers = {'egg': 0, 'catching': 0, 'exp': 0, 'item': 0, 'raid': 0, 'title': 0, 'sparkling': 0, 'humungo': 0, 'teensy': 0, 'encounter': 0}
 flavors = {'sweet': 0, 'spicy': 0, 'bitter': 0, 'sour': 0, 'salty': 0}
 types = {'grass': 0, 'water': 0, 'fire': 0, 'dragon': 0, 'dark': 0, 'steel': 0, 'fairy': 0,
     'electric': 0, 'ice': 0, 'ghost': 0, 'psychic': 0, 'poison': 0, 'normal': 0, 'fighting': 0, 'rock': 0, 'ground': 0, 'bug': 0, 'flying': 0}
@@ -17,18 +17,37 @@ types = {'grass': 0, 'water': 0, 'fire': 0, 'dragon': 0, 'dark': 0, 'steel': 0, 
 
 #Selection
 
-#once quantifiable, program in reductions caused by the use of too many ingredients.
-
 #Check selection validity
-if ingredients == []:
-    raise ValueError("You must select at least one ingredient.")
+if len(ingredients) < num_players * min_ingredients:
+    raise ValueError("You must select at least one ingredient per player.")
 elif (len(ingredients) > num_players * max_ingredients) or (len(seasonings) > num_players * max_seasonings):
     raise ValueError("Too many ingredients or seasonings were selected. Please submit a bug report at https://github.com/nuclearGoblin/arven/issues.")
 
 #Sum up selection
+for x in ingredients + seasonings:
+    for y in powers + flavors + types:
+        y += x[y]
 
-for x in powers:
-    if x < 0: x = 0 #ignore negatives
+#once quantifiable, program in reductions caused by the use of too many ingredients.
+
+#apply bonus from flavor
+#do bonuses for combinations only apply on a tie?
+if max(flavors) == 'sweet':
+    powers['egg'] += 100
+elif max(flavors) == 'spicy':
+    powers['humungo'] += 100
+elif max(flavors) == 'bitter':
+    powers['item'] += 100
+elif max(flavors) == 'sour':
+    powers['teensy'] += 100
+elif max(flavors) == 'salty':
+    powers['encounter'] += 100
+elif max(flavors) == ['sweet','sour']:
+    powers['catching'] += 100
+elif max(flavors) == ['salty','bitter']:
+    powers['exp'] += 100
+elif max(flavors) == ['spicy','sweet']:
+    powers['raid'] += 100
 
 #Check if sparkling power is permitted
 if sum([("Herba Mystica" in x) for x in ingredients]) < 2:
