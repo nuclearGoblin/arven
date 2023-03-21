@@ -1,4 +1,7 @@
 # Arven
+
+**As others have already made sandwich calculators with the same goals as this one, Arven is being archived so that we can focus on other projects.**
+
 Arven is a sandwich value checker for Pokemon Scarlet/Violet. It allows you to select ingredients and check the buffs that will be provided by the resulting sandwich without requiring you to spend any rare ingredients in the process.
 
 **Note:** Serebii notes that, in multiplayer, adding too many ingredients can reduce the effectiveness of a sandwich. Currently, we do not have a way to account for this effect as we do not know at what point it kicks in.
